@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/MOSTRE/MSTR-RAT/main/assets/icons/skull.ico" width="100">
   <h3>Developed by zoubaire</h3>
